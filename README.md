@@ -8,4 +8,7 @@ Data obtained was extracted from this platform.
 An alignment comparison was made between a classic progressive algorithm and a sequence alignment heuristic like TCoffee, with no clear 
 conclusion or correlation between sequence features (eg. length, GC content, size) and how well either algorithms performed. 
 
+Plots can be seen in the iPython notebook labelled Phylo plots.ipynb. 
+
+
 
